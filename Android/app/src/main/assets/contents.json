@@ -1,0 +1,707 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "k1",
+      "name": "Aespa karina 1",
+      "publisher": "Cherry box",
+      "tray_image_file": "karina1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😕",
+            "🙁"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😂",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥹",
+            "🥲"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😘",
+            "😚"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😐",
+            "😶"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "🥺"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😥",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "👋",
+            "✌️"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😱",
+            "🫢"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😯",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🙄",
+            "🥱"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😏",
+            "😉"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "k2",
+      "name": "Aespa karina 2",
+      "publisher": "Cherry box",
+      "tray_image_file": "karina2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤷‍♀️",
+            "🤷"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😂",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "👏"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😏",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😘",
+            "🫀"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😘",
+            "🫀"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "👋",
+            "✌️"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😱",
+            "🫢"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😯",
+            "😨"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🙄",
+            "🥱"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "😏",
+            "😉"
+          ]
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "w1",
+      "name": "Aespa winter 1",
+      "publisher": "Cherry box",
+      "tray_image_file": "winter1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😕",
+            "🙁"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😂",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🥹",
+            "🥲"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😘",
+            "😚"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😐",
+            "😶"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "👍",
+            "😊"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔",
+            "🥺"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😥",
+            "😦"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "👋",
+            "✌️"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😱",
+            "🫢"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😯",
+            "😨"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "w2",
+      "name": "Aespa winter 2",
+      "publisher": "Cherry box",
+      "tray_image_file": "winter2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🙄",
+            "🥱"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😆",
+            "😂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😏",
+            "😉"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤷‍♀️",
+            "🤷"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😂",
+            "🤣"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "👏"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😏",
+            "🥰"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😘",
+            "🫀"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😘",
+            "🫀"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "🤨"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😏",
+            "😎"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "g1",
+      "name": "Aespa giselle 1",
+      "publisher": "Cherry box",
+      "tray_image_file": "giselle1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "g2",
+      "name": "Aespa giselle 2",
+      "publisher": "Cherry box",
+      "tray_image_file": "giselle2.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "n1",
+      "name": "Aespa ningning 1",
+      "publisher": "Cherry box",
+      "tray_image_file": "ningning1.png",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "🏇🏻"
+          ]
+        }
+      ]
+    }
+  ]
+}
